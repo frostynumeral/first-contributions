@@ -76,6 +76,7 @@ Swapnonil Mitra
 - Talles Cardoso
 - Jeferson Ramos Fonseca
 - malka
+- frostynumeral
 - [shechet](https://github.com/shefchet)
 - [Peter Nguyen](https://github.com/petern48) hi
 - [gdziewon] **she puppy on my linux till i ram**
